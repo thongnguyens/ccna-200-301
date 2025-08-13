@@ -23,6 +23,7 @@
 * [Giấy phép & bản quyền](#giấy-phép--bản-quyền)
 * [Ghi công](#ghi-công)
 * [Nhật ký thay đổi](#nhật-ký-thay-đổi)
+* [Liên hệ](#liên-hệ)
 
 ---
 
@@ -196,7 +197,7 @@ Thêm file `.gitattributes` ở gốc để theo dõi file lớn:
 
 ---
 
-## Contacts
+## Liên hệ
 
 Vui lòng mở một Issue trên Gmail, GitHub hoặc để lại bình luận trong mục PR. Mọi đóng góp thông qua Issue — chẳng hạn như báo cáo lỗi, đề xuất hoặc sửa lỗi tài liệu — luôn được hoan nghênh! 🚀
 
