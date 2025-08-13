@@ -18,7 +18,6 @@
 * [Cách sử dụng Packet Tracer](#cách-sử-dụng-packet-tracer)
 * [Lộ trình học gợi ý](#lộ-trình-học-gợi-ý)
 * [Tài liệu & blueprint 200‑301](#tài-liệu--blueprint-200301)
-* [Topics (GitHub About)](#topics-github-about)
 * [Đóng góp](#đóng-góp)
 * [Giấy phép & bản quyền](#giấy-phép--bản-quyền)
 * [Ghi công](#ghi-công)
@@ -132,28 +131,6 @@ ccna-200-301-packet-tracer-labs/
 * **Tài liệu tham khảo:** `refs/ccna-200-301-vol2.pdf`, `refs/ccna-200-301-official-cert-guide.pdf`.
 
 > Khuyến nghị song hành: làm lab theo thứ tự module → đọc slide tương ứng → so với blueprint → ghi chú kiến thức còn yếu.
-
----
-
-## Topics (GitHub About)
-
-Thêm *topics* để repo dễ được tìm thấy. Dùng **GitHub CLI**:
-
-```bash
-gh repo edit thongnguyens/ccna-200-301 \
-  --add-topic ccna \
-  --add-topic cisco \
-  --add-topic packet-tracer \
-  --add-topic networking \
-  --add-topic labs \
-  --add-topic itn \
-  --add-topic srwe \
-  --add-topic ensa \
-  --add-topic 200-301 \
-  --add-topic study-notes
-```
-
-> Hoặc thêm thủ công trong **About → Topics**.
 
 ---
 
