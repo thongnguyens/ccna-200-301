@@ -65,7 +65,7 @@ git add .gitattributes
 
 ```bash
 # Clone repo (nếu chưa ở trong thư mục dự án)
-git clone https://github.com/thongnguyenslife/ccna-200-301-packet-tracer-labs.git
+git clone https://github.com/thongnguyens/ccna-200-301.git
 cd ccna-200-301-packet-tracer-labs
 ```
 
