@@ -190,6 +190,12 @@ Thêm file `.gitattributes` ở gốc để theo dõi file lớn:
 
 ---
 
+## Nhật ký thay đổi
+
+* **v0.1.0** – Khởi tạo: bổ sung labs S1–S4, slides SE1–SE4, blueprint & tài liệu tham khảo; chuẩn hóa cấu trúc thư mục.
+
+---
+
 ## Contacts
 
 Vui lòng mở một Issue trên Gmail, GitHub hoặc để lại bình luận trong mục PR. Mọi đóng góp thông qua Issue — chẳng hạn như báo cáo lỗi, đề xuất hoặc sửa lỗi tài liệu — luôn được hoan nghênh! 🚀
@@ -210,9 +216,3 @@ Vui lòng mở một Issue trên Gmail, GitHub hoặc để lại bình luận t
 </p>
 
 <!-- End of README -->
-
----
-
-## Nhật ký thay đổi
-
-* **v0.1.0** – Khởi tạo: bổ sung labs S1–S4, slides SE1–SE4, blueprint & tài liệu tham khảo; chuẩn hóa cấu trúc thư mục.
