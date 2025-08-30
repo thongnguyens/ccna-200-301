@@ -184,7 +184,7 @@ Vui lòng mở một Issue trên Gmail, GitHub hoặc để lại bình luận t
   <a href="mailto:thongnguyenslife@gmail.com" aria-label="Email">
     <img alt="Email" src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-1a73e8?logo=gmail&logoColor=white&style=flat"/>
   </a>
-  <a href="https://github.com/thongnguyenslife" aria-label="GitHub Profile">
+  <a href="https://github.com/thongnguyens" aria-label="GitHub Profile">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@thongnguyenslife-1a73e8?logo=github&logoColor=white&style=flat"/>
   </a>
   <!-- Optional: LinkedIn (uncomment and set your handle)
